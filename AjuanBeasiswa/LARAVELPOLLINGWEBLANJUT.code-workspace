@@ -1,0 +1,28 @@
+{
+  "folders": [
+	{
+		"path": "../../LARAVELPOLLINGWEBLANJUT"
+	},
+	{
+		"path": "D:/applications/gala-laravel"
+	},
+	{
+		"path": "D:/TA-PROJECT/applications/rtrw-laravel"
+	},
+	{
+		"path": "D:/TA-PROJECT/applications/rtrwadm-laravel"
+	},
+	{
+		"path": "D:/TA-PROJECT/applications/admrtrw"
+	},
+	{
+		"path": "D:/TA-PROJECT/applications/rtrw/letter-making-web"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "admrtrw"
+  }
+}
